@@ -88,7 +88,7 @@ void calc_directional_light(Material mat, DirectionalLight L,
 
 <img src="LAB10.assets/5120A139C4F2B4F7CF0CE8589194E850.png" alt="5120A139C4F2B4F7CF0CE8589194E850" style="zoom:33%;" />
 
-<img src="LAB10.assets/5120A139C4F2B4F7CF0CE8589194E850-0717613.png" alt="5120A139C4F2B4F7CF0CE8589194E850" style="zoom:33%;" />
+<img src="LAB10.assets/8B070D0720FB9A6F3599BC48F98E975F.png" alt="8B070D0720FB9A6F3599BC48F98E975F" style="zoom: 33%;" />
 
 
 
