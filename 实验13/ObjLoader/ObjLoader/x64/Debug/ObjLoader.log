@@ -1,0 +1,5 @@
+﻿  ObjLoader.cpp
+c:\users\嘉扬\documents\visual studio 2015\projects\objloader\objloader\objloader.cpp(57): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\嘉扬\documents\visual studio 2015\projects\objloader\objloader\objloader.cpp(81): warning C4244: “初始化”: 从“double”转换到“GLint”，可能丢失数据
+  ObjLoader.vcxproj -> C:\Users\嘉扬\Documents\Visual Studio 2015\Projects\ObjLoader\x64\Debug\ObjLoader.exe
+  ObjLoader.vcxproj -> C:\Users\嘉扬\Documents\Visual Studio 2015\Projects\ObjLoader\x64\Debug\ObjLoader.pdb (Partial PDB)
